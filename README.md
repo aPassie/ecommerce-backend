@@ -7,7 +7,6 @@ A simple e-commerce backend built with Spring Boot.
 - Java 25
 - Spring Boot 4.0.1
 - Spring Data JPA
-- H2 Database (in-memory)
 - Maven
 
 ## Setup Instructions
